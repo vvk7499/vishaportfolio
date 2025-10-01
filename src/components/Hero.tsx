@@ -1,6 +1,6 @@
 import { ArrowDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profileImage from "@/assets/profile.jpg";
+import profileImage from "@/assets/profile.png";
 import heroBg from "@/assets/hero-bg.jpg";
 
 export const Hero = () => {

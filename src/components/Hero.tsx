@@ -35,7 +35,7 @@ export const Hero = () => {
             </p>
             
             <p className="text-lg text-muted-foreground max-w-xl">
-              Building seamless full-stack experiences with React and modern web technologies.
+              I am a Full Stack Developer specializing in building responsive and scalable web applications using React.js, Node.js, and modern web technologies. Passionate about creating seamless user experiences, I combine front-end design with robust back-end functionality to deliver complete end-to-end solutions.
             </p>
             
             <div className="flex gap-4 pt-4">
